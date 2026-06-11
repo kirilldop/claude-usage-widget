@@ -1,0 +1,8 @@
+{
+  "uuid": "claude-usage@kirilldop.github.io",
+  "name": "Claude Usage",
+  "description": "Shows Claude usage (5-hour session and weekly limits) in the top bar. Reads the status file written by the Claude Usage widget; click for details or to open the full widget.",
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "version": 1,
+  "settings-schema": ""
+}

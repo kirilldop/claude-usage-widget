@@ -1,0 +1,8 @@
+.cu-dot {
+    font-size: 10px;
+    padding-right: 2px;
+}
+.cu-label {
+    font-feature-settings: "tnum";
+    font-weight: bold;
+}
